@@ -17,7 +17,7 @@
     "upgrade:tamagui": "manypkg upgrade tamagui && manypkg upgrade @tamagui && manypkg upgrade tamagui-loader"
   },
   "resolutions": {
-    "esbuild": "0.17.4",
+    "esbuild": "0.17.5",
     "@types/react": "18.0.27",
     "react": "18.2.0",
     "react-dom": "18.2.0",
