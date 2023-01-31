@@ -3630,14 +3630,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tamagui/next-theme@npm:1.0.3":
-  version: 1.0.3
-  resolution: "@tamagui/next-theme@npm:1.0.3"
+"@tamagui/next-theme@npm:1.2.2":
+  version: 1.2.2
+  resolution: "@tamagui/next-theme@npm:1.2.2"
   dependencies:
-    "@tamagui/use-event": ^1.0.3
+    "@tamagui/use-event": ^1.2.2
   peerDependencies:
     react: "*"
-  checksum: 5b3bcefedd87093132deb59eae241a8b80e4af134ad1e5cce696f969a42b1f4c136f745022f7e91350d1841e05793ff5d2375df0c5b3701a097aec19c30f37e4
+  checksum: 8acfe185a98771b254e356f115107831187eece71dca016c51cac48fcf5fb33e3563de0bbe07059d37c99447f6732c160a4c45cc6c74c99d6ae30e35f115d79c
   languageName: node
   linkType: hard
 
@@ -4102,6 +4102,15 @@ __metadata:
   peerDependencies:
     react: "*"
   checksum: ac8df0c45f1101bef7dddcdae8353784757045591e8604ec35163dae21dbd2bca7348a4c0a579090d52d138424b5fface5f5d5a1f6a0d2ac40840df1a56cb188
+  languageName: node
+  linkType: hard
+
+"@tamagui/use-event@npm:^1.2.2":
+  version: 1.2.2
+  resolution: "@tamagui/use-event@npm:1.2.2"
+  peerDependencies:
+    react: "*"
+  checksum: a67dbd56fb9b4cfed6c347ee3f02af87de21f9ed6854a64abbf29b96bb7f7cdff0876f800dc49ca733fbd45252ba1c43d969757a65e7db9f6218590a59b5e5cf
   languageName: node
   linkType: hard
 
@@ -10675,7 +10684,7 @@ __metadata:
   resolution: "next-app@workspace:apps/next"
   dependencies:
     "@tamagui/next-plugin": 1.0.3
-    "@tamagui/next-theme": 1.0.3
+    "@tamagui/next-theme": 1.2.2
     "@types/node": ^18.6.4
     app: "*"
     critters: ^0.0.16
