@@ -3248,17 +3248,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tamagui/babel-plugin@npm:1.0.3":
-  version: 1.0.3
-  resolution: "@tamagui/babel-plugin@npm:1.0.3"
+"@tamagui/babel-plugin@npm:1.2.2":
+  version: 1.2.2
+  resolution: "@tamagui/babel-plugin@npm:1.2.2"
   dependencies:
     "@babel/generator": ^7.19.6
     "@babel/helper-plugin-utils": ^7.19.0
     "@babel/template": 7.18.10
     "@babel/traverse": ^7.19.6
-    "@tamagui/simple-hash": ^1.0.3
-    "@tamagui/static": ^1.0.3
-  checksum: 3d5db577f801b1d1362522192f489d525367d38b09932fc810ef8535b4ceda0367ebfff924002b0ba1c648f61e00b0bb55a23cc1864b135c24b4d7e4881d173b
+    "@tamagui/simple-hash": ^1.2.2
+    "@tamagui/static": ^1.2.2
+  checksum: 73976c905960c9e2a4522a000f5db1f00bc35d85ceb0e35f6a5e994d27631b176ae9bb6c080c359a9e179082a496ec8e2cc258a5c28bca5629f068ef8b628ebb
   languageName: node
   linkType: hard
 
@@ -3738,14 +3738,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tamagui/next-theme@npm:1.0.3":
-  version: 1.0.3
-  resolution: "@tamagui/next-theme@npm:1.0.3"
+"@tamagui/next-theme@npm:1.2.2":
+  version: 1.2.2
+  resolution: "@tamagui/next-theme@npm:1.2.2"
   dependencies:
-    "@tamagui/use-event": ^1.0.3
+    "@tamagui/use-event": ^1.2.2
   peerDependencies:
     react: "*"
-  checksum: 5b3bcefedd87093132deb59eae241a8b80e4af134ad1e5cce696f969a42b1f4c136f745022f7e91350d1841e05793ff5d2375df0c5b3701a097aec19c30f37e4
+  checksum: 8acfe185a98771b254e356f115107831187eece71dca016c51cac48fcf5fb33e3563de0bbe07059d37c99447f6732c160a4c45cc6c74c99d6ae30e35f115d79c
   languageName: node
   linkType: hard
 
@@ -4868,7 +4868,7 @@ __metadata:
     "@tamagui/shorthands": ^1.0.3
     "@tamagui/theme-base": ^1.0.3
     expo-linking: ^3.2.3
-    solito: 2.0.0-canary.4
+    solito: 2.1.3
   languageName: unknown
   linkType: soft
 
@@ -7413,7 +7413,7 @@ __metadata:
     "@babel/runtime": ^7.18.9
     "@expo/metro-config": ^0.5.0
     "@my/ui": "*"
-    "@tamagui/babel-plugin": 1.0.3
+    "@tamagui/babel-plugin": 1.2.2
     "@types/react-native": ~0.71.0
     app: "*"
     babel-plugin-module-resolver: ^5.0.0
@@ -10913,7 +10913,7 @@ __metadata:
   resolution: "next-app@workspace:apps/next"
   dependencies:
     "@tamagui/next-plugin": 1.2.2
-    "@tamagui/next-theme": 1.0.3
+    "@tamagui/next-theme": 1.2.2
     "@types/node": ^18.6.4
     app: "*"
     critters: ^0.0.16
@@ -12234,16 +12234,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-svg@npm:13.7.0":
-  version: 13.7.0
-  resolution: "react-native-svg@npm:13.7.0"
+"react-native-svg@npm:13.8.0":
+  version: 13.8.0
+  resolution: "react-native-svg@npm:13.8.0"
   dependencies:
     css-select: ^5.1.0
     css-tree: ^1.1.3
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: f3609dbb9d2614323914a8cc5ae11092aacb3a140e6d5ff57b255ddb6a9d2dc2efd5c28f65c6232e0b7228ec3231359540a7fa11ec92f944e6e98d570b147483
+  checksum: dfcad65978bb2e06a81b6f6262fad0699fa48e720ac2e521e983da4f6fb7747435f6a15df08b9d57559299272d0ffa674b4f0a55482f8b37905ee1e96f51b46a
   languageName: node
   linkType: hard
 
@@ -13368,10 +13368,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"solito@npm:2.0.0-canary.4":
-  version: 2.0.0-canary.4
-  resolution: "solito@npm:2.0.0-canary.4"
-  checksum: e1485e5aed275dede4bcaeab9f8e3d068b751cfcc1e2ddc6222daeaf51a34f7f50355a06bcd168c74484991dbb6762897dba9a0f861b99638719b8e97413e459
+"solito@npm:2.1.3":
+  version: 2.1.3
+  resolution: "solito@npm:2.1.3"
+  checksum: 254d363d0d2af584b0f65dac6986f4abc507524ad8033464be36dfab6ab70a87909137481e93da4c40eabf4b8a7dd924772409e5ab2d496bfec3b47baffcfe6d
   languageName: node
   linkType: hard
 
@@ -14362,11 +14362,11 @@ __metadata:
 
 "typescript@patch:typescript@^4.7.4#~builtin<compat/typescript>":
   version: 4.9.3
-  resolution: "typescript@patch:typescript@npm%3A4.9.3#~builtin<compat/typescript>::version=4.9.3&hash=d73830"
+  resolution: "typescript@patch:typescript@npm%3A4.9.3#~builtin<compat/typescript>::version=4.9.3&hash=a66ed4"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 67ca21a387c0572f1c04936e638dde7782c5aa520c3754aadc7cc9b7c915da9ebc3e27c601bfff4ccb7d7264e82dce6d277ada82ec09dc75024349e0ef64926d
+  checksum: d7bdcf5e18193f709339540d69577f7b0389000265db2bf10edfaa67336a29d6bcbee11828084150f7fdd110d605794cfa6df33bebc0a2e33daad2dbe2a7a59f
   languageName: node
   linkType: hard
 
