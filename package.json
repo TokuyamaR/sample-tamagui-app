@@ -18,7 +18,7 @@
   },
   "resolutions": {
     "esbuild": "0.17.6",
-    "@types/react": "18.0.27",
+    "@types/react": "18.0.28",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-refresh": "^0.14.0",
