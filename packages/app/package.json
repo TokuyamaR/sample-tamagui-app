@@ -16,7 +16,7 @@
     "@tamagui/lucide-icons": "^1.0.3",
     "@tamagui/shorthands": "^1.0.3",
     "@tamagui/theme-base": "^1.0.3",
-    "expo-linking": "^3.2.3",
+    "expo-linking": "^4.0.0",
     "solito": "2.3.0"
   }
 }
