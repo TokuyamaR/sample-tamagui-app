@@ -4519,11 +4519,11 @@ __metadata:
   linkType: hard
 
 "@types/react-native@npm:~0.71.0":
-  version: 0.71.0
-  resolution: "@types/react-native@npm:0.71.0"
+  version: 0.71.6
+  resolution: "@types/react-native@npm:0.71.6"
   dependencies:
     "@types/react": "*"
-  checksum: 58332a3ab0bd239fa4211fd39d5143c8a6ae9c9b6217ebea1a8821eccfcc3b3805d9b69dd18eaf4917e9f656b9b59e2517591501b512ee7bd8cb12efa111a255
+  checksum: 067325c549e7181c73cdf8da1cb7bdef226124d91c3f72fcc2fb8b3c98a2d184f74a16ba627e3192253103bd651e8238d0e722b93f762b3f1a3f5b96773ec7a5
   languageName: node
   linkType: hard
 
