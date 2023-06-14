@@ -4913,7 +4913,7 @@ __metadata:
     "@tamagui/shorthands": ^1.0.3
     "@tamagui/theme-base": ^1.0.3
     expo-linking: ^4.0.0
-    solito: 2.3.0
+    solito: 3.2.9
   languageName: unknown
   linkType: soft
 
@@ -13311,10 +13311,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"solito@npm:2.3.0":
-  version: 2.3.0
-  resolution: "solito@npm:2.3.0"
-  checksum: b03455bf0b0e355e3d83c1c67f3b1ae78183cd5f70ec3d5415c011be86a12b742439426412a09cd58b5c13c684874bd4ce4d5a13e55cb22af5ef7a4a35b9c3b8
+"solito@npm:3.2.9":
+  version: 3.2.9
+  resolution: "solito@npm:3.2.9"
+  checksum: 79fed7c2f71d1604007cb92f901cabbae3b8af05a0835b110dfb263d6a8d5f4cbb5f02911767e5b9a73e6552898e53ebbfe401d3aa6c9a7cfdc5a5fbf4a2c3e1
   languageName: node
   linkType: hard
 
