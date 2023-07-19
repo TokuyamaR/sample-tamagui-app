@@ -10918,14 +10918,14 @@ __metadata:
   linkType: soft
 
 "next-images@npm:^1.8.4":
-  version: 1.8.4
-  resolution: "next-images@npm:1.8.4"
+  version: 1.8.5
+  resolution: "next-images@npm:1.8.5"
   dependencies:
     file-loader: ^6.2.0
     url-loader: ^4.1.0
   peerDependencies:
     webpack: ^4.0.0 || ^5.0.0
-  checksum: f7d59ff211d6ff93f274a899df85ebabc20630e18fc3c471f81ab64fa1ea856ef445da5d7dae34a4be36ef002e63e8e446cddf8e70043a6c6e40fd36e1aabdf5
+  checksum: 7b4666ad8b3385a5894aa9407c97a6e0b05527d61d8702dd375bbe87e2ccbf55ccd28f8c2cf11306e8b2c91339a364b7138722745865ba987d07100065b50d28
   languageName: node
   linkType: hard
 
